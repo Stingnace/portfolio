@@ -1,0 +1,107 @@
+body{
+    background-color: rgba(0, 0, 0, 0.801);
+}
+
+.header{
+    height: 50px;
+    background-color: rgba(128, 128, 128, 0.486);
+    margin-top: -12px;
+    border-radius: 8px;
+}
+
+.navigation ul li{
+    list-style: none;
+    display: inline-block;
+    
+}
+
+
+.navigation a{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 113px;
+    margin-right: 225px;
+    font-weight: bold;
+    font-family: 'Lobster Two', cursive;
+
+}
+.navigation a:hover{
+    color: darkgoldenrod;
+    transform: scale(1.5);
+}
+.container{
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    margin-left: 0;
+    flex-wrap: nowrap;
+}
+.bloc1{
+    width: 500px;
+    height: 700px;
+    margin-left: 0;
+    
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.titre_bloc{
+    text-align: center;
+    color: white;
+    font-family: 'Lobster Two', cursive;
+    background-color: rgba(150, 136, 12, 0.719);
+    border-radius: 10px;
+
+
+}
+p{
+    text-align: justify;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+span{
+    font-weight: bold;
+    color: rgba(245, 221, 9, 0.719);
+}
+.bloc2{
+    width: 500px;
+    height: 600px;
+    margin-right: 40px;
+    margin-left: 40px;
+   
+}
+.bloc3{
+    width: 500px;
+    height: 600px;
+   
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+
+.ressources{
+    display: inline-block;
+}
+.ressources img{
+    width: 70px;
+    height: 70px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.passions img{
+    width: 70px;
+    height: 70px;
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
+h3{
+    color:darkgoldenrod ;
+}
