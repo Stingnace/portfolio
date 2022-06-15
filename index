@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lobster+Two&family=Montserrat&family=Pacifico&family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="header">
+        <div class="navigation">
+            <nav>
+                <ul>
+                    <li>
+                        <a href="fichier/trame_emargement.pdf" target="_blank">Mon CV</a>
+                    </li>
+                    <li>
+                        <a href="a_propos.html">A propos</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Me contacter</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+</header class="header">
+    <div class="container">
+        <div class="item1"><h2>Bienvenue sur mon portefolio</h2></div>
+        <br>
+        <div class="item2"><img  src="images/1517075235677.jfif" alt=""></div> 
+    </div>
+
+    <div class="creations">
+        <button><a href="créations">Mes créations</a></button>
+    </div>
+    
+    
+</body>
+</html>
